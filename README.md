@@ -26,6 +26,8 @@ In summary, the analysis of the Seattle Airbnb dataset shows that the average ni
 
 This project was created by **_Mohamed Shams_**.
 
+See article [here](https://medium.com/@imohamedshamss/a-deep-dive-into-seattles-real-estate-market-dc186e0840a9).
+
 You can find me on LinkedIn [here](https://www.linkedin.com/in/imohamed-shams/).
 
 Feel free to reach out to me if you have any questions or suggestions for this project!
